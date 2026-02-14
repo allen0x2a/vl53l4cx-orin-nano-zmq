@@ -3,8 +3,6 @@ Python driver for the VL53L4CX Time-of-Flight sensor, specifically optimized for
 
 **Ranging Profile: Short Range (Indoor Optimized)**
 
-This driver is configured with a Short Range Profile to maximize refresh rates and precision from 70mm - 1000mm
-
 * **Effective Range:** 70mm – 1000mm
 * **Accuracy:** Optimized for indoor lighting conditions
 * **Performance:** Polling @ 100Hz
