@@ -1,6 +1,9 @@
 # vl53l4cx-orin-nano-zmq
 Python driver for the VL53L4CX Time-of-Flight sensor, specifically optimized for the NVIDIA Jetson Orin Nano. This implementation bypasses the heavy Arduino HAL libraries, offering a lightweight ZeroMQ publisher for 4-wire (I2C) breakout boards. Ideal for low-latency robotics and proximity sensing.
 
+<img src="./media/tof.gif" width="500">
+
+
 **Ranging Profile: Short Range (Indoor Optimized)**
 
 * **Effective Range:** 70mm – 1000mm
